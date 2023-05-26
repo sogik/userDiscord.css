@@ -1,2 +1,2 @@
 # userDiscord.css
-My own discord them.
+My own discord theme.
